@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "auditInitiateActionReference" : "IAAIAR757106",
+  "businessService" : "businessService",
+  "auditInstanceReference" : "IAAIR727505",
+  "auditInitiateActionRecord" : {},
+  "auditInstanceStatus" : "auditInstanceStatus",
+  "auditAnalysisSchedule" : "auditAnalysisSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "auditVersionNumber" : "auditVersionNumber",
+  "serviceDescription" : "serviceDescription",
+  "auditPreconditions" : "auditPreconditions",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

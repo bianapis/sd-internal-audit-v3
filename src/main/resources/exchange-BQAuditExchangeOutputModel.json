@@ -1,0 +1,14 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "auditAnalysisSchedule" : "auditAnalysisSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "auditInstanceStatus" : "auditInstanceStatus",
+  "auditVersionNumber" : "auditVersionNumber",
+  "auditExchangeActionTaskRecord" : {},
+  "serviceDescription" : "serviceDescription",
+  "auditExchangeActionResponse" : "auditExchangeActionResponse",
+  "auditPreconditions" : "auditPreconditions",
+  "auditExchangeActionTaskReference" : "IAAEATR755210",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

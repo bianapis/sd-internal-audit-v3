@@ -1,0 +1,11 @@
+{
+  "internalAuditAssessmentSelectedOption" : "internalAuditAssessmentSelectedOption",
+  "internalAuditAssessmentGrantActionTaskRecord" : {},
+  "internalAuditAssessmentRequest" : "internalAuditAssessmentRequest",
+  "internalAuditAssessmentGrantActionTaskReference" : "IAAGATR738462",
+  "internalAuditAssessmentParameterType" : "internalAuditAssessmentParameterType",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "grantRequestRecordReference" : "GRRR715437"
+}

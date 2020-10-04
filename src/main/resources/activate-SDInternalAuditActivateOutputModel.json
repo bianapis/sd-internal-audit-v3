@@ -1,0 +1,24 @@
+{
+  "internalAuditActivationActionTaskRecord" : {},
+  "internalAuditServicingSessionStatus" : "internalAuditServicingSessionStatus",
+  "internalAuditActivationActionTaskReference" : "SAATR758836",
+  "internalAuditServicingSessionReference" : "SSSR783215",
+  "internalAuditServicingSessionRecord" : {},
+  "internalAuditServiceConfigurationRecord" : {
+    "internalAuditServiceStatus" : "internalAuditServiceStatus",
+    "internalAuditServiceAgreement" : {
+      "internalAuditServiceAgreementTermsandConditions" : "internalAuditServiceAgreementTermsandConditions",
+      "internalAuditServiceUserReference" : "767210",
+      "internalAuditServiceAgreementReference" : "791202"
+    },
+    "internalAuditServiceConfigurationSetup" : {
+      "internalAuditServiceConfigurationParameter" : "internalAuditServiceConfigurationParameter"
+    },
+    "internalAuditServiceConfigurationSettingReference" : "700761",
+    "internalAuditServiceConfigurationSettingDescription" : "internalAuditServiceConfigurationSettingDescription",
+    "internalAuditServiceSubscription" : {
+      "internalAuditServiceSubscriberAccessProfile" : "internalAuditServiceSubscriberAccessProfile",
+      "internalAuditServiceSubscriberReference" : "769192"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "auditGrantActionTaskRecord" : {},
+  "auditAnalysisSchedule" : "auditAnalysisSchedule",
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "auditVersionNumber" : "auditVersionNumber",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "serviceDescription" : "serviceDescription",
+  "auditPreconditions" : "auditPreconditions",
+  "auditGrantActionTaskReference" : "IAAGATR709983",
+  "grantRequestRecordReference" : "GRRR791315",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs"
+}

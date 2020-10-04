@@ -1,0 +1,25 @@
+{
+  "serviceType" : "serviceType",
+  "businessService" : "businessService",
+  "auditRetrieveActionTaskRecord" : {},
+  "auditInstanceReport" : {
+    "auditInstanceReportType" : "auditInstanceReportType",
+    "auditInstanceReport" : {},
+    "auditInstanceReportRecord" : {},
+    "auditInstanceReportParameters" : "auditInstanceReportParameters"
+  },
+  "auditInstanceAnalysis" : {
+    "auditInstanceAnalysisParameters" : "auditInstanceAnalysisParameters",
+    "auditInstanceAnalysisReportType" : "auditInstanceAnalysisReportType",
+    "auditInstanceAnalysisRecord" : {},
+    "auditInstanceAnalysisReport" : {}
+  },
+  "serviceWorkProduct" : "serviceWorkProduct",
+  "auditRetrieveActionResponse" : "auditRetrieveActionResponse",
+  "auditPreconditions" : "auditPreconditions",
+  "serviceInputsandOuputs" : "serviceInputsandOuputs",
+  "auditRetrieveActionTaskReference" : "IAARATR744917",
+  "auditAnalysisSchedule" : "auditAnalysisSchedule",
+  "auditVersionNumber" : "auditVersionNumber",
+  "serviceDescription" : "serviceDescription"
+}

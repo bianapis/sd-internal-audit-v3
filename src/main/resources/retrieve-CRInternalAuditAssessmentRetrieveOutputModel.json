@@ -1,0 +1,25 @@
+{
+  "internalAuditAssessmentSelectedOption" : "internalAuditAssessmentSelectedOption",
+  "internalAuditAssessmentType" : "internalAuditAssessmentType",
+  "internalAuditAssessmentUsageLog" : "internalAuditAssessmentUsageLog",
+  "internalAuditAssessmentReference" : "IAAR701546",
+  "internalAuditAssessmentInstanceAnalysis" : {
+    "internalAuditAssessmentInstanceAnalysisReportType" : "internalAuditAssessmentInstanceAnalysisReportType",
+    "internalAuditAssessmentInstanceAnalysisData" : "internalAuditAssessmentInstanceAnalysisData",
+    "internalAuditAssessmentInstanceAnalysisReport" : {}
+  },
+  "internalAuditAssessmentRequest" : "internalAuditAssessmentRequest",
+  "internalAuditAssessmentSchedule" : "internalAuditAssessmentSchedule",
+  "internalAuditAssessmentRetrieveActionTaskReference" : "IAARATR711525",
+  "internalAuditAssessmentStatus" : "internalAuditAssessmentStatus",
+  "internalAuditAssessmentServiceProviderReference" : "IAASR759330",
+  "internalAuditAssessmentRequesterReference" : "IAARR747353",
+  "internalAuditAssessmentParameterType" : "internalAuditAssessmentParameterType",
+  "internalAuditAssessmentInstanceReportRecord" : {
+    "internalAuditAssessmentInstanceReportData" : "internalAuditAssessmentInstanceReportData",
+    "internalAuditAssessmentInstanceReport" : {},
+    "internalAuditAssessmentInstanceReportType" : "internalAuditAssessmentInstanceReportType"
+  },
+  "internalAuditAssessmentRetrieveActionTaskRecord" : {},
+  "internalAuditAssessmentRetrieveActionResponse" : "internalAuditAssessmentRetrieveActionResponse"
+}
